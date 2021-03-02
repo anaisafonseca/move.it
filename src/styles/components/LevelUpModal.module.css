@@ -1,5 +1,6 @@
 .overlay {
-    background: rgba(242, 243, 245, 0.8);
+    /* background: rgba(30, 33, 34, 0.9); */
+    background: rgba(24, 26, 27, 0.9);
     position: fixed;
     top: 0;
     bottom: 0;
@@ -11,7 +12,8 @@
 }
 
 .container {
-    background: var(--white);
+    /* background: var(--dark-gray); */
+    background: var(--background);
     width: 100%;
     max-width: 400px;
     padding: 2rem 3rem;

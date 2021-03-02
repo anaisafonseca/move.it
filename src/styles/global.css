@@ -5,17 +5,17 @@
 }
 
 :root {
-    --white: #fff;
-    --background: #f2f3f5;
-    --gray-line: #dcdde0;
-    --text: #666666;
+    --dark-gray: #181a1b;
+    --background:#1e2122;
+    --gray-line: #3b4042;
+    --text: #a8a095;
     --text-highlinght: #b3b9ff;
-    --title: #2e384d;
-    --green: #4cd62b;
+    --title: #b1c0d0;
+    --green: #5db324;
     --blue: #5965e0;
     --blue-dark: #4953b8;
     --blue-twiter: #2aa9e0;
-    --red: #e83f5b
+    --red: #ae142e
 }
 
 body {
